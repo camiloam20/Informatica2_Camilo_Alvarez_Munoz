@@ -1,4 +1,4 @@
-# Informatica2_Camilo_Alvarez_Munoz
+# Informatica2_Camilo_Alvarez_Muñoz
 
 Repositorio proyecto final y proyecto de investigación Informatica-2
 
